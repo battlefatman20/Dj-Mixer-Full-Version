@@ -237,3 +237,6 @@ This repository serves as the official landing page for DJ Mixer. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DJ Mixer today!**
+
+---
+**Last updated:** 2026-09-07 18:39:35 UTC
